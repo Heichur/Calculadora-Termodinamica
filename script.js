@@ -19,7 +19,7 @@ alert ("A temperatura em celcius para kelvin seria igual a = " + KelvinFinal)
 parseInt(valorC)
 
 FahFinal = valorC*9/5 +32
-alert("A temperatura em celcius para fahrenheit seria igual a = ")
+alert("A temperatura em celcius para fahrenheit seria igual a = " + FahFinal)
 
 }
 }

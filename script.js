@@ -16,6 +16,10 @@ KelvinFinal = parseInt(valorC) + 273
 
 alert ("A temperatura em celcius para kelvin seria igual a = " + KelvinFinal)
 } else if (KelOuFah === "Fahrenheit"){
-alert ("Sem essa função por enquanto... Espere atualizações")
+parseInt(valorC)
+
+FahFinal = valorC*9/5 +32
+alert("A temperatura em celcius para fahrenheit seria igual a = ")
+
 }
 }
